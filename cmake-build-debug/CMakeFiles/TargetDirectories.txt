@@ -1,0 +1,3 @@
+/Users/wali/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/ImageProcessing.dir
+/Users/wali/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wali/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
